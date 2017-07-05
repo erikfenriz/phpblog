@@ -1,2 +1,2 @@
 # phpblog
-MySQL + php + CSS + HTML blog (on XAMMP)
+MySQL + php + CSS + HTML blog (on XAMPP)
